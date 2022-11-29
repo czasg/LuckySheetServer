@@ -1,6 +1,6 @@
 # luckysheet 在线协同编辑
 
-参考自 [example](https://github.com/czasg/Pywss/tree/master/examples/0.1.1/luckysheet)
+参考自 [example](https://github.com/czasg/pywss/tree/master/demo/luckysheet)
 
 1、安装依赖：`pip install pywss>=0.1.1`
 
